@@ -1,4 +1,4 @@
-# CS401
+# CS401 
 
 ### Labs:
 Lab 2: Min, Max, Perfect, and Prime</br>
